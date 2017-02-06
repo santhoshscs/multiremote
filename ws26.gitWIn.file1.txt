@@ -1,3 +1,5 @@
 This is from ws26
 with Git for WIndows
 THis line is from Eclipse
+Ome line adding from eclise and tryng to commit from git GUI
+Line 5 added and trying to pus to server with git GUI
